@@ -10,7 +10,7 @@ Languages and Tools:
 
 # Frontend
 ![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![next](https://img.shields.io/badge/-Next-764ABC?style=flat-square&logo=next-js&logoColor=white)
+![next](https://img.shields.io/badge/-Next-764ABC?style=flat-square&logo=nextjs&logoColor=white)
 ![tailwind](https://img.shields.io/badge/-Tailwindcss-764ABC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 # Backend
@@ -22,4 +22,4 @@ Languages and Tools:
 # Tools
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![trello](https://img.shields.io/badge/-Trello-181717?style=flat-square&logo=github&logoColor=white)
+![trello](https://img.shields.io/badge/-Trello-181717?style=flat-square&logo=trello&logoColor=white)
