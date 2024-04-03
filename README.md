@@ -9,9 +9,9 @@ Languages and Tools:
 ![typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 # Frontend
-![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![next](https://img.shields.io/badge/-Next-764ABC?style=flat-square&logo=nextjs&logoColor=white)
-![tailwind](https://img.shields.io/badge/-Tailwindcss-764ABC?style=flat-square&logo=tailwindcss&logoColor=white)
+![react](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white)
+![next](https://img.shields.io/badge/-NextJS-764ABC?style=flat-square&logo=nextdotjs&logoColor=white)
+![tailwind](https://img.shields.io/badge/-TailwindCSS-764ABC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 # Backend
 ![nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
