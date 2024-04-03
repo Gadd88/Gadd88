@@ -9,9 +9,13 @@ Languages and Tools:
 ![typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 # Frontend
+![html5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![styled-component](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![react](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![next](https://img.shields.io/badge/-NextJS-764ABC?style=flat-square&logo=nextdotjs&logoColor=white)
-![tailwind](https://img.shields.io/badge/-TailwindCSS-764ABC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 # Backend
 ![nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -22,4 +26,5 @@ Languages and Tools:
 # Tools
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![trello](https://img.shields.io/badge/-Trello-181717?style=flat-square&logo=trello&logoColor=white)
+![trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
