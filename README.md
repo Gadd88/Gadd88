@@ -32,3 +32,5 @@ Languages and Tools:
 ![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gadd88&theme=onedark)]
